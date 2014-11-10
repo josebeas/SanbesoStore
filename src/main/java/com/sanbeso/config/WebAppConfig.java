@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"com.test.controller"})
+@ComponentScan(basePackages = {"com.sanbeso.controller"})
 public class WebAppConfig {
 
     /*@Bean

@@ -786,7 +786,7 @@ standard deployment descriptor.
     <init-param>
       <param-name>contextConfigLocation</param-name>
       <param-value>
-      		com.sanbeso.config.AppConfig, com.sanbeso.config.WebAppConfig, com.sanbeso.config.JPAConfig, com.sanbeso
+      		com.sanbeso.config.AppConfig, com.sanbeso.config.WebAppConfig, com.sanbeso.config.JPAConfig
       	</param-value>
     </init-param>
     <load-on-startup>1</load-on-startup>

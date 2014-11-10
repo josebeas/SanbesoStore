@@ -13,7 +13,7 @@ import org.springframework.core.io.ClassPathResource;
 import com.sanbeso.bean.HelloBean;
 
 @Configuration
-@ComponentScan(basePackages = {"com.test"})
+@ComponentScan(basePackages = {"com.sanbeso"})
 public class AppConfig {
 	
     @Value("${example.label}")
