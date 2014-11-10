@@ -1,0 +1,597 @@
+10-21 12:40:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 12:40:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 12:40:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 12:40:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 12:41:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 12:41:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 12:41:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 12:41:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 12:55:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 12:55:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 12:55:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 12:55:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 13:08:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 13:08:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 13:08:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 13:08:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 13:08:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 13:08:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 13:08:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 13:08:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 13:09:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 13:09:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 13:09:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 13:09:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 13:13:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 13:13:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 13:13:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 13:13:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 13:17:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 13:17:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 13:17:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 13:17:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 13:19:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 13:19:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 13:19:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 13:19:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 13:22:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 13:22:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 13:22:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 13:22:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A477A1D8BB [42102-174]
+10-21 14:09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:09:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:12:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:12:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:12:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:12:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:12:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:15:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:15:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:15:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:15:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:15:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:17:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:17:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:17:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:17:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:17:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:17:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:17:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:17:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:17:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:17:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:19:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:19:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:19:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:19:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:19:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:27:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:27:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:27:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:27:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:27:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:28:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:28:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:28:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:28:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:28:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:40:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:40:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:40:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:40:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:40:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:41:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:41:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:41:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:41:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:41:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:43:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:43:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:43:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:43:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:43:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:46:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:46:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:46:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:46:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:46:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:47:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:47:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:47:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:47:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:47:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:47:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:47:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:47:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:47:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:47:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:48:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:48:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:48:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:48:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:48:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:49:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:49:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:49:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:49:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:49:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:49:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:49:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:49:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:49:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:49:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:49:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:49:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:49:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:49:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:49:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:50:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:50:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:50:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:50:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:50:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:50:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:50:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:50:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:50:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:50:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-21 14:51:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-21 14:51:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C16413AFCA84 [42102-174]
+10-21 14:51:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164127C6B40 [42102-174]
+10-21 14:51:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-21 14:51:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 11:15:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 11:15:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 11:15:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 11:15:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 11:15:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 11:17:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 11:17:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 11:17:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 11:17:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 11:17:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:17:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:17:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:17:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:17:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:17:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:20:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:20:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:20:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:20:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:20:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:20:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:20:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:20:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:20:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:20:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:21:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:21:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:21:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:21:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:21:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:24:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:24:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:24:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:24:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:24:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:24:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:24:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:24:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:24:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:24:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:27:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:27:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:27:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:27:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:27:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:29:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:29:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:29:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:29:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:29:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]
+10-23 14:30:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADRESSES" not found; SQL statement:
+alter table ADRESSES drop constraint FKFD34D5A4145D5D54 [42102-174]
+10-23 14:30:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164AC99E49 [42102-174]
+10-23 14:30:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+alter table PRODUCTS drop constraint FKF2D1C164D67AB1E3 [42102-174]
+10-23 14:30:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961BAC71E596 [42102-174]
+10-23 14:30:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS_ADRESSES" not found; SQL statement:
+alter table USERS_ADRESSES drop constraint FK4DAB961B37BD1DD4 [42102-174]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns="http://java.sun.com/xml/ns/persistence"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+             version="2.0">
+    <persistence-unit name="testUnit" transaction-type="RESOURCE_LOCAL">
+		<provider>org.hibernate.ejb.HibernatePersistence</provider>
+	 	<class>com.sanbeso.domain.User</class>
+	  	<class>com.sanbeso.domain.Address</class>
+	   	<class>com.sanbeso.domain.State</class>
+	    <class>com.sanbeso.domain.Model</class>
+	    <class>com.sanbeso.domain.Brand</class>
+	    <class>com.sanbeso.domain.Product</class>
+	    <properties>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
+            <property name="hibernate.hbm2ddl.auto" value="create-drop"/>
+            <property name="hibernate.show_sql" value="true"/>
+            <!-- <property name="hibernate.format_sql" value="true" /> -->
+            <property name="hibernate.cache.use_second_level_cache" value="false"/>
+            <property name="hibernate.max_fetch_depth" value="1"/>
+        </properties>
+    </persistence-unit>
+        
+</persistence>
