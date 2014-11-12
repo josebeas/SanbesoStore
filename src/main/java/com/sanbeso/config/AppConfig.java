@@ -23,7 +23,6 @@ public class AppConfig {
     public HelloBean createHello() {
         return new HelloBean("Hello Foo, " + label);
     }
- 
 
     @Bean
     public MessageSource messageSource() {
@@ -41,8 +40,6 @@ public class AppConfig {
         p.setLocation(new ClassPathResource("app.properties"));
         return p;
     }
-
- 
 
     /*@Bean
     public UrlBasedViewResolver getUrlBasedViewResolver() {
