@@ -24,8 +24,8 @@
 	</head>
 	
 	<body>
-		<h2>Spring's form tags example</h2>
-		<form:form method="POST" commandName="customer">
+		<legend>Spring's form tags example</legend>
+		<form:form method="POST" commandName="customer" class="form-horizontal">
 			<form:errors path="*" cssClass="errorblock" element="div"/>
 			<table>
 				<tr>
@@ -50,7 +50,7 @@
 				</tr>
 				<tr>
 					<td>Subscribe to newsletter? : </td>
-					<td><form:checkbox path="receiveNewsletter" /></td>
+					<td><form:checkbox class="checkbox" path="receiveNewsletter" /></td>
 					<td><form:errors path="receiveNewsletter" cssClass="error" /></td>
 				</tr>
 				<tr>
@@ -88,7 +88,7 @@
 				</tr>
 				<form:hidden path="secretValue" />
 				<tr>
-					<td colspan="3"><input type="submit" /></td>
+					<td colspan="3"><input class="btn btn-primary" type="submit" /></td>
 				</tr>
 			</table>
 		</form:form>
