@@ -11,13 +11,13 @@ import org.springframework.web.servlet.ModelAndView;
 import com.sanbeso.domain.Employee;
 
 @Controller
-@RequestMapping("/employee/add")
+@RequestMapping("/employee/add.htm")
 public class EmployeeController {
 
 	@RequestMapping(method = RequestMethod.POST)
 	public ModelAndView add(HttpServletRequest request, HttpServletResponse response){
 		Employee employee = new Employee();
-		String firtsName = request.getParameter("fistName");
+		String firtsName = request.getParameter("firstName");
 		String lastName = request.getParameter("lastName");
 		String email = request.getParameter("email");
 		employee.setEmail(email);

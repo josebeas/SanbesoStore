@@ -24,7 +24,6 @@ public class CustomerValidator implements Validator {
 	public void validate(Object target, Errors errors) {
 		Customer customer = (Customer)target;
 		if(customer!=null){
-			//ValidationUtils.rejectIfEmptyOrWhitespace(errors, "name", "customer.validation.name");
 			ValidationUtils.rejectIfEmptyOrWhitespace(errors, "password", "customer.validation.password");
 			ValidationUtils.rejectIfEmptyOrWhitespace(errors, "confirmPassword", "customer.validation.confirmPassword");
 			if(customer.getFavFramework()!=null && customer.getFavFramework().length > 0){

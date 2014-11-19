@@ -11,6 +11,9 @@
 	    <class>com.sanbeso.domain.Model</class>
 	    <class>com.sanbeso.domain.Brand</class>
 	    <class>com.sanbeso.domain.Product</class>
+	    <class>com.sanbeso.domain.Post</class>
+	    <class>com.sanbeso.domain.Employee</class>
+	    
 	    <properties>
             <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
             <property name="hibernate.hbm2ddl.auto" value="create-drop"/>

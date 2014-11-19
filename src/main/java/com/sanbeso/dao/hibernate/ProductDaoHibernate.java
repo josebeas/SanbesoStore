@@ -59,6 +59,7 @@ public class ProductDaoHibernate extends GeneralDao implements ProductDao {
 	public Long add(Product product) throws CustomValidationException,
 			PersistenceException {
 		Long result = new Long(-1);
+		validate(product, DaoMessagesKeys.UPDATE_FAIL.getValue());
 		try{
 			result = (Long)getSession().save(product);
 		}catch(Exception e){
@@ -148,6 +149,8 @@ public class ProductDaoHibernate extends GeneralDao implements ProductDao {
 		if(product !=null){
 			if(product.getAvailability()!=null){
 				criteria.add(Restrictions.eq("availability", product.getAvailability()));
+			}
+			if(product.getDescripction()!=null){
 				criteria.add(Restrictions.eq("description", product.getDescripction()));
 			}
 		}
