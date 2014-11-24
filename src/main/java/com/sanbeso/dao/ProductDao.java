@@ -19,7 +19,7 @@ public interface ProductDao {
 	public Long add(Product product) throws CustomValidationException, PersistenceException;
 	public Product get(Product product)throws PersistenceException;
 	public Product getById(Long productId)throws PersistenceException;
-	public List<Product> list(Product productId)throws PersistenceException;
+	public List<Product> list(Product product)throws PersistenceException;
 	public void update(Product product)throws CustomValidationException, PersistenceException;
 	public void delete(Product product)throws PersistenceException;
 }

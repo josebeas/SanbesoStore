@@ -1,37 +1,74 @@
 package com.sanbeso.domain;
 
-public class Customer{
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+@Entity
+@Table(name = "CUSTOMERS")
+public class Customer{
+	
+	@Id
+	@Column(name = "\"CUSTOMERID\"")
+    @GeneratedValue
+    @JsonProperty("customerId")	
+	private Long id;
 	//textbox
-	String userName;
+	@Column(name = "\"USERNAME\"")
+	@JsonProperty("userName")
+	private String userName;
 	
 	//textarea
-	String address;
+	@Column(name = "\"ADDRESS\"")
+	@JsonProperty("address")
+	private String address;
 	
-	//password
-	String password;
-	String confirmPassword;
+	//password related
+	@Column(name = "\"PASSWORD\"")
+	@JsonProperty("password")
+	private String password;
+	@Column(name = "\"CONFIRMPASSWORD\"")
+	@JsonProperty("confirmPassword")
+	private String confirmPassword;
 	
 	//checkbox
-	boolean receiveNewsletter;
-	String [] favFramework;
+	@Column(name = "\"RECEIVENEWSLETTER\"")
+	@JsonProperty("receiveNewlatter")
+	private boolean receiveNewsletter;
+	@Column(name = "\"FAVFRAMEWORK\"")
+	@JsonProperty("favFramework")
+	private String [] favFramework;
 	
 	//radio button
-	String favNumber;
-	String sex;
+	@Column(name = "\"FAVNUMBER\"")
+	@JsonProperty("favNumber")
+	private String favNumber;
+	@Column(name = "\"SEX\"")
+	@JsonProperty("sex")
+	private String sex;
 	
 	//dropdown box
-	String country;
-	String javaSkills;
+	@Column(name = "\"COUNTRY\"")
+	@JsonProperty("country")
+	private String country;
+	@Column(name = "\"JAVASKILLS\"")
+	@JsonProperty("BrandDescription")
+	private String javaSkills;
 	
 	//hidden value
-	String secretValue;
+	@Column(name = "\"SECRETVALUE\"")
+	@JsonProperty("secretValue")
+	private String secretValue;
 	
-	public String getSecretValue() {
-		return secretValue;
+	public Long getId() {
+		return id;
 	}
-	public void setSecretValue(String secretValue) {
-		this.secretValue = secretValue;
+	public void setSecretValue(Long id) {
+		this.id = id;
 	}
 	public String getUserName() {
 		return userName;
@@ -92,5 +129,11 @@ public class Customer{
 	}
 	public void setJavaSkills(String javaSkills) {
 		this.javaSkills = javaSkills;
+	}
+	public String getSecretValue() {
+		return secretValue;
+	}
+	public void setSecretValue(String secretValue) {
+		this.secretValue = secretValue;
 	}
 }

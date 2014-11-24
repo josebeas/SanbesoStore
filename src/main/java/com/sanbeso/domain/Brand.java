@@ -25,7 +25,7 @@ public class Brand implements Serializable{
 	@JsonProperty("name")	
 	private String name;
 	@Column(name = "\"DESCRIPTION\"")
-	@JsonProperty("BrandDescription")	
+	@JsonProperty("brandDescription")	
 	private String description;
 	
 	public Long getId() {

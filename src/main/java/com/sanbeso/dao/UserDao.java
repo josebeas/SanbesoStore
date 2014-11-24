@@ -19,7 +19,7 @@ public interface UserDao {
 	public Long add(User user) throws CustomValidationException, PersistenceException;
 	public User get(User user)throws PersistenceException;
 	public User getById(Long userId)throws PersistenceException;
-	public List<User> list(User userId)throws PersistenceException;
+	public List<User> list(User user)throws PersistenceException;
 	public void update(User user)throws CustomValidationException, PersistenceException;
 	public void delete(User user)throws PersistenceException;
 }

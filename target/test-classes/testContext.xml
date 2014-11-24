@@ -11,12 +11,16 @@
     <bean id="productDao" class="com.sanbeso.dao.hibernate.ProductDaoHibernate"/>
     <bean id="postDao" class="com.sanbeso.dao.hibernate.PostDaoHibernate"/>
     <bean id="employeeDao" class="com.sanbeso.dao.hibernate.EmployeeDaoHibernate"/>
+    <bean id="brandDao" class="com.sanbeso.dao.hibernate.BrandDaoHibernate"/>
+    <bean id="modelDao" class="com.sanbeso.dao.hibernate.ModelDaoHibernate"/>
     
     <!-- Validators -->
     <bean id="productValidator" class="com.sanbeso.validation.ProductValidator"/>
     <bean id="userValidator" class="com.sanbeso.validation.UserValidator"/>
     <bean id="postValidator" class="com.sanbeso.validation.PostValidator"/>
     <bean id="employeeValidator" class="com.sanbeso.validation.EmployeeValidator"/>
+    <bean id="brandValidator" class="com.sanbeso.validation.BrandValidator"/>
+    <bean id="modelValidator" class="com.sanbeso.validation.ModelValidator"/>
     
     <bean id="pum" class="org.springframework.orm.jpa.persistenceunit.DefaultPersistenceUnitManager">
         <property name="persistenceXmlLocations" value="classpath:/test-persistence.xml"/>
