@@ -793,7 +793,7 @@ standard deployment descriptor.
   </servlet>
   <servlet-mapping>
     <servlet-name>SpringServlet</servlet-name>
-     <url-pattern>/</url-pattern>
-    <!-- <url-pattern>*.jsp</url-pattern> --> 
+     <!-- <url-pattern>/</url-pattern> --> 
+    <url-pattern>*.jsp</url-pattern>
   </servlet-mapping>
 </web-app>
